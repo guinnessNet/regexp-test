@@ -76,7 +76,7 @@ ab? | b가 없거나 b와 일치
 \w | 63개 문자(word, 대소영문52개 + 숫자10개 + _)에 일치
 \b | 63개 문자에 일치하지 않는 문자 경계(Boundary)
 \d | 숫자(Digit)에 일치
-\s | 공백(Space , Tab)등에 일치
+\s | 공백(Space , Tab)등에 일치됨
 | 
 (?=) | 앞쪽 일치(Lookahead)
 (?<=) | 뒷쪽 일치(Lookbehind)
